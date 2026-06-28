@@ -61,4 +61,4 @@ none yet
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: Muyideen Olawale Oriola · Muyendo*
