@@ -10,7 +10,7 @@
 - Advised to enable MFA moving forward.
 - Learn navigation, from hompage, to personal profile, to settings etc.
 - Creating a respository using the plus icon on the right side up the screen.
-- Understanding creating files and uploading files. I observed every files carryies .md as in Markdown format.
+- Understanding creating files and uploading files. I observed every files carries .md as in Markdown format.
 -
 -
 
