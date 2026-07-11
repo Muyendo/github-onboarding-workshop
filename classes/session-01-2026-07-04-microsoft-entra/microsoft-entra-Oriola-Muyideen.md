@@ -1,7 +1,4 @@
 # My Notes — [Muyideen Olawale ORIOLA]
-
-
-
 ---
 
 ## Key Concepts I Learned
@@ -18,19 +15,16 @@ Custom header
 - Storing the API key in the vault allows you to securely manage your API key without ever exposing it publicly.
 - API plugins for Microsoft 365 Copilot allows to integrate with APIs secured with a key. 
 -
--
-
----
+--
 
 ## Lab / Hands-On Work
+No test account for me yet
 
-<!-- No test account for me yet
 ### What I did
 I studied the module to have understanding, the microsoft screenshot in the learn module added more clarity
 
 ### What happened / Result
 Module was completed:<img width="800" height="1280" alt="WhatsApp Image 2026-07-11 at 05 04 49" src="https://github.com/user-attachments/assets/71f2c81c-7286-4720-aef8-46989fc6f3df" />
-
 
 ### Challenges I faced
 Missing Lab experience. 
@@ -38,11 +32,9 @@ Missing Lab experience.
 ---
 
 ## My Takeaways
-
 API keys are to be kept secret
 API keys should be stored in the vault
 To integrate an OAuth-secured API with Microsoft Teams, the Admin must configure the client ID, client secret, and token endpoint in the Teams Developer Portal.
-
 
 ---
 
@@ -50,8 +42,6 @@ To integrate an OAuth-secured API with Microsoft Teams, the Admin must configure
 
 Provision for lab access. Thank you.
 
--
--
 
 ---
 
