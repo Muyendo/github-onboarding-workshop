@@ -8,18 +8,15 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--API are arbitrary spring that API owners issues to you to grant you access to API.
-- To call an API secured with an API key, you need to  to include the API key in the API request.
-
+- API are arbitrary spring that API owners issues to you to grant you access to API.
+- To call an API secured with an API key, you need to include the API key in the API request.
 - Microsoft 365 Copilot supports passing API keys as:
 JSON Web Token (JWT)
 Query string parameter
 Custom header
-
--An API key is a secret value that you should never share publicly. 
--Storing the API key in the vault allows you to securely manage your API key without ever exposing it publicly.
--An administrator registers the API key.
--API plugins for Microsoft 365 Copilot allows to integrate with APIs secured with a key. 
+- An API key is a secret value that you should never share publicly. 
+- Storing the API key in the vault allows you to securely manage your API key without ever exposing it publicly.
+- API plugins for Microsoft 365 Copilot allows to integrate with APIs secured with a key. 
 -
 -
 
